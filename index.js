@@ -1,7 +1,5 @@
-var token = "?token=GHSAT0AAAAAACJUJCKKAN7IIFJW7XL3PWQ4ZKBH3CQ";
-
 var urls = [
-	"https://raw.githubusercontent.com/mediamakermatt/deepest-world/main/computerVision.js" + token,
+	"https://raw.githubusercontent.com/mediamakermatt/deepest-world/main/computerVision.js",
 ];
 
 // https://www.w3schools.com/xml/dom_httprequest.asp
